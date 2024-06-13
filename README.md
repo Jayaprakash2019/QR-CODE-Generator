@@ -1,6 +1,6 @@
 # QR-CODE-Generator
 
-cd my-project
+cd firstProject
 
 npm install
 npm run dev
